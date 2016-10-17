@@ -1,3 +1,3 @@
 #Data Science Applied Group Alumni Mapping Project
 
-An web application displaying Earlham College alumni location with Leaflet.
+A web application displaying Earlham College alumni geolocations with Leaflet, featuring a zipcode search function that returns information of alumni in the same area. App built with Flask framework
